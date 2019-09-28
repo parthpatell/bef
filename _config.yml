@@ -1,5 +1,5 @@
 logo:   # add logo name
-title: Parth fPatel
+title: Parth Patel
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -22,7 +22,7 @@ phone: (732)-397-0088 # your pnone number
 website: https://parthpatell.github.io # you website
 
 # Social link
-google_url: parth14@gmail.com   # add url link
+google_url: pasdfasdfarth14@gmail.com   # add url link
 twitter_url: https://twitter.com/parth_apatel   # add url link
 instagram_url: https://www.instagram.com/parth_apatel/ # add url link
 linkedin_url: https://www.linkedin.com/in/parth-apatel/
